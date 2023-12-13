@@ -1,1 +1,1 @@
-Please, go to the Wiki for the document.
+Please, navigate to the Wiki for the document.
